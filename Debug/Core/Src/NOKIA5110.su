@@ -1,0 +1,17 @@
+NOKIA5110.c:127:6:cmd_LCD	24	static
+NOKIA5110.c:148:6:data_LCD	24	static
+NOKIA5110.c:169:6:inic_LCD	8	static
+NOKIA5110.c:185:6:goto_XY	16	static
+NOKIA5110.c:193:6:escreve2fb	24	static
+NOKIA5110.c:203:6:imprime_LCD	16	static
+NOKIA5110.c:215:6:caractere_LCD	24	static
+NOKIA5110.c:231:6:string_LCD	16	static
+NOKIA5110.c:237:6:string_LCD_Nr	48	static
+NOKIA5110.c:269:6:limpa_LCD	16	static
+NOKIA5110.c:279:6:desenha_pixel	32	static
+NOKIA5110.c:299:6:desenha_linha	80	static
+NOKIA5110.c:378:6:desenha_circulo	48	static
+NOKIA5110.c:429:6:desenha_retangulo	48	static
+NOKIA5110.c:477:6:desenha_triangulo	40	static
+NOKIA5110.c:524:6:desenha_fig	56	static
+NOKIA5110.c:593:6:escreve_Nr_Peq	64	static

@@ -1,0 +1,8 @@
+pong.c:7:6:intro	8	static
+pong.c:20:6:espera_botao	8	static
+pong.c:26:6:init_game	24	static
+pong.c:46:6:check_score	24	static
+pong.c:84:12:check_colisao	48	static
+pong.c:121:6:move_bola	32	static
+pong.c:189:6:move_jogador0	16	static
+pong.c:202:6:move_jogador1	32	static
